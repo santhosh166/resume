@@ -1,0 +1,23 @@
+#head{
+    
+    color: rgb(14, 13, 13);
+    width: 121px;
+    border-radius:50% ;
+    text-align: center;
+}
+#col:hover{
+  cursor: pointer;
+  background-color: rgb(204, 233, 157);
+  color:rgb(22, 22, 22);
+}
+#col{
+    background-color: blanchedalmond;
+    
+}
+h1:hover{
+    margin-left: 2%;
+
+}
+#name{
+    font-size: x-large;
+}
